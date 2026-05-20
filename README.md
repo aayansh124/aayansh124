@@ -61,6 +61,6 @@
 
 ---
 
-## ⚡ Fun Fact
+
 
 I enjoy solving real-world problems using Machine Learning and continuously improving my coding skills through daily practice.
