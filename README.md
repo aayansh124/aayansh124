@@ -8,8 +8,9 @@
 - 🎓 I am a B.Tech CSE Student
 - 🤖 Interested in Machine Learning & AI
 - 📊 Building real-world ML projects
-- 🌱 Currently learning Deep Learning, and Machine Learning Deployment
+- 🌱 Currently learning Deep Learning and Machine Learning Deployment
 - ⚡ Passionate about Machine Learning, NLP, and AI-driven solutions
+
 ---
 
 ## 🧠 Current Focus
@@ -25,7 +26,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,flask,tensorflow,pytorch,sklearn,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,flask,tensorflow,pytorch,sklearn,git,github,vscode" />
 </p>
 
 ---
@@ -33,7 +34,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayansh124&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aayansh124&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -43,21 +44,23 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayansh124&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/aayansh124" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+  <a href="https://github.com/aayansh124" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
 
-<a href="https://www.linkedin.com/in/aayansh-yadav-187292293/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
+  <a href="https://www.linkedin.com/in/aayansh-yadav-187292293/" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
+
 ---
 
-
+## ⚡ Fun Fact
 
 I enjoy solving real-world problems using Machine Learning and continuously improving my coding skills through daily practice.
